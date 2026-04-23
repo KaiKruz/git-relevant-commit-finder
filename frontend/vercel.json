@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://your-api.onrender.com/api/:path*"
+      "destination": "https://git-relevant-commit-finder.onrender.com"
     }
   ]
 }
