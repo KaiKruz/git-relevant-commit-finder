@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+chroma_db/
+cloned_repos/
+repos_meta.json
+node_modules/
+dist/
+.venv/
+.venv*/
+*.egg-info/
+*.log
+*.db
+backend/tmp_api/
+backend/demo_local_repo/
+backend/chroma_db/
+backend/cloned_repos/

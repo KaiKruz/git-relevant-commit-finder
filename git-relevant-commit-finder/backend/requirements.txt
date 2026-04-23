@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+chromadb
+sentence-transformers
+gitpython
+python-multipart
