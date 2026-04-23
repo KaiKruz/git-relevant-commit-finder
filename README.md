@@ -136,12 +136,6 @@ See [`docs/api-contract.md`](docs/api-contract.md) for the frozen REST API speci
 
 ---
 
-## Contributing
-
-Please read [`AGENTS.md`](AGENTS.md) for the agent-driven development workflow used in this project.
-
----
-
 ## License
 
 MIT
